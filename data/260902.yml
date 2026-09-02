@@ -1,0 +1,66 @@
+about:
+  description: Define your dev environment as code. For microservice apps on Kubernetes.
+  license: Apache-2.0
+  homepage: https://tilt.dev/
+  head: 9e7aff3
+  archived: false
+  latestVersion: v0.37.7
+  collectedAt: 2026-09-02T05:02:57Z
+timeline:
+  created: 2018-08-07
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-15
+popularity:
+  star: 10031
+  watcher: 44
+  fork: 413
+  release: 265
+  contributor: 115
+  pullRequest: 304
+  issue: 1591
+language:
+  Go: 4555428
+  TypeScript: 958252
+  Python: 123014
+  Shell: 40383
+  SCSS: 15221
+  Dockerfile: 7918
+  Makefile: 5575
+  Starlark: 3775
+  PowerShell: 1907
+  HTML: 1110
+  JavaScript: 1021
+totalLine: 5713604
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 1
+    mergedPR: 8
+    openPR: 4
+    closedIssue: 2
+    openIssue: 2
+    commit: 8
+  last90d:
+    since: 2026-06-04
+    release: 4
+    mergedPR: 38
+    openPR: 7
+    closedIssue: 4
+    openIssue: 5
+    commit: 49
+  last180d:
+    since: 2026-03-06
+    release: 7
+    mergedPR: 75
+    openPR: 11
+    closedIssue: 9
+    openIssue: 6
+    commit: 82
+  last360d:
+    since: 2025-09-07
+    release: 12
+    mergedPR: 137
+    openPR: 12
+    closedIssue: 37
+    openIssue: 15
+    commit: 149
