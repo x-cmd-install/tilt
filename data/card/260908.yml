@@ -5,7 +5,7 @@ about:
   head: 4b9845e
   archived: false
   latestVersion: "v0.37.7"
-  collectedAt: 2026-09-08T02:03:40Z
+  collectedAt: 2026-09-08T04:52:33Z
 timeline:
   created: 2018-08-07
   lastCommit: 2026-09-04
@@ -89,7 +89,7 @@ total:
   commit: 5100
 ---
 path: /home/runner/.x-repo/github.com/tilt-dev/tilt
-collectedAt: 2026-09-08T02:03:55Z
+collectedAt: 2026-09-08T04:52:55Z
 loc:
   Go:
     code: 1855380
