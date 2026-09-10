@@ -4,7 +4,7 @@
 
 Define your dev environment as code. For microservice apps on Kubernetes.
 
-![tilt](https://repo.x-cmd.io/tilt.svg)
+![tilt](https://repo.x-cmd.io/tilt.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,25 @@ x install tilt
 - **最新版本**: `v0.37.7` (2026-08-15)
 - **最近提交**: 2026-09-04
 - **Release 含资产**: 10 个
-- **发布时间**: 2026-08-15T01:24:10Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/tilt-dev/tilt/releases/download/v0.37.7/checksums.txt) | 883 B | `other` |
+| [tilt.0.37.7.linux-alpine.arm64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.7/tilt.0.37.7.linux-alpine.arm64.tar.gz) | 28.8 MiB | `native/linux/arm64` |
+| [tilt.0.37.7.linux-alpine.x86_64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.7/tilt.0.37.7.linux-alpine.x86_64.tar.gz) | 31.9 MiB | `native/linux/x64` |
+| [tilt.0.37.7.linux.arm.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.7/tilt.0.37.7.linux.arm.tar.gz) | 37.8 MiB | `native/linux/arm` |
+| [tilt.0.37.7.linux.arm64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.7/tilt.0.37.7.linux.arm64.tar.gz) | 36.7 MiB | `native/linux/arm64` |
+| [tilt.0.37.7.linux.x86_64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.7/tilt.0.37.7.linux.x86_64.tar.gz) | 39.9 MiB | `native/linux/x64` |
+| [tilt.0.37.7.mac.arm64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.7/tilt.0.37.7.mac.arm64.tar.gz) | 31.6 MiB | `native/linux/arm64` |
+| [tilt.0.37.7.mac.x86_64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.7/tilt.0.37.7.mac.x86_64.tar.gz) | 33.9 MiB | `native/linux/x64` |
+| [tilt.0.37.7.web-assets.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.7/tilt.0.37.7.web-assets.tar.gz) | 1.2 MiB | `native/unknown` |
+| [tilt.0.37.7.windows.x86_64.zip](https://github.com/tilt-dev/tilt/releases/download/v0.37.7/tilt.0.37.7.windows.x86_64.zip) | 31.2 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 10,046 · **Fork**: 414 · **开放 issue**: 1,591 · **贡献者**: 115
+- **Star**: 10,047 · **Fork**: 414 · **开放 issue**: 1,591 · **贡献者**: 115
 
 ## 累计统计
 
@@ -72,4 +86,4 @@ tilt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:46:42Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:48:02Z._
