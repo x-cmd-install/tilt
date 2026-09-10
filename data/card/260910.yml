@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.37.7"
   latestRelease: "v0.37.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:47:30Z
+  collectedAt: 2026-09-10T21:37:23Z
 timeline:
   created: 2018-08-07
   lastCommit: 2026-09-04
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-15
   lastPrerelease: 
 popularity:
-  star: 10047
+  star: 10048
   watcher: 45
-  fork: 414
+  fork: 413
   release: 265
   contributor: 115
   pullRequest: 5241
@@ -93,7 +93,7 @@ total:
   commit: 5100
 ---
 path: /home/runner/.x-repo/github.com/tilt-dev/tilt
-collectedAt: 2026-09-10T16:47:48Z
+collectedAt: 2026-09-10T21:37:40Z
 loc:
   Go:
     code: 1855380
