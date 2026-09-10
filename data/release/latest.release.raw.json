@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 883,
       "digest": "sha256:d21f78961a342dd9bf670597bff94ca662ebf4829e96769b06e7237e4dd37dc5",
-      "download_count": 1163,
+      "download_count": 1337,
       "created_at": "2026-08-15T01:24:09Z",
       "updated_at": "2026-08-15T01:24:09Z",
       "browser_download_url": "https://github.com/tilt-dev/tilt/releases/download/v0.37.7/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 30162239,
       "digest": "sha256:5e8257f0421f26eb3ef43a22bd146a715f5fa2daed7065fb9ea812a889823260",
-      "download_count": 42,
+      "download_count": 45,
       "created_at": "2026-08-15T01:24:08Z",
       "updated_at": "2026-08-15T01:24:09Z",
       "browser_download_url": "https://github.com/tilt-dev/tilt/releases/download/v0.37.7/tilt.0.37.7.linux-alpine.arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 33399854,
       "digest": "sha256:0c34ad42a335e74625bc09d563fe50286d676483058bd3f01f886c7d0a62a8d8",
-      "download_count": 2481,
+      "download_count": 2524,
       "created_at": "2026-08-15T01:24:08Z",
       "updated_at": "2026-08-15T01:24:09Z",
       "browser_download_url": "https://github.com/tilt-dev/tilt/releases/download/v0.37.7/tilt.0.37.7.linux-alpine.x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 38465970,
       "digest": "sha256:9f381347fa18ffca3f1d3dcdd3f6745281a6647e6107199832ceaa62a461964a",
-      "download_count": 6073,
+      "download_count": 6265,
       "created_at": "2026-08-15T01:24:06Z",
       "updated_at": "2026-08-15T01:24:08Z",
       "browser_download_url": "https://github.com/tilt-dev/tilt/releases/download/v0.37.7/tilt.0.37.7.linux.arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 41819384,
       "digest": "sha256:b695193fab68def8310cb971fa60bbe47ba0a782e24f54ebad287c13316a61b0",
-      "download_count": 101147,
+      "download_count": 103452,
       "created_at": "2026-08-15T01:24:06Z",
       "updated_at": "2026-08-15T01:24:08Z",
       "browser_download_url": "https://github.com/tilt-dev/tilt/releases/download/v0.37.7/tilt.0.37.7.linux.x86_64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 33120931,
       "digest": "sha256:7f54afff29cae67e2751c13df00a66d56f6fbc4463573089059ba673cf128687",
-      "download_count": 3078,
+      "download_count": 3177,
       "created_at": "2026-08-15T01:24:08Z",
       "updated_at": "2026-08-15T01:24:09Z",
       "browser_download_url": "https://github.com/tilt-dev/tilt/releases/download/v0.37.7/tilt.0.37.7.mac.arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 32697693,
       "digest": "sha256:8ca1a39cc8005c778aa237e42e21fd3c0be6c6e97e8e808257c82858b7e69ad7",
-      "download_count": 1173,
+      "download_count": 1181,
       "created_at": "2026-08-15T01:24:06Z",
       "updated_at": "2026-08-15T01:24:07Z",
       "browser_download_url": "https://github.com/tilt-dev/tilt/releases/download/v0.37.7/tilt.0.37.7.windows.x86_64.zip"
