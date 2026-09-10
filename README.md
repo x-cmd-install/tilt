@@ -1,24 +1,75 @@
 # tilt
 
+[中文版本](./README.cn.md)
+
 Define your dev environment as code. For microservice apps on Kubernetes.
 
-- **Upstream**: <https://github.com/tilt-dev/tilt>
-- **Homepage**: <https://tilt.dev/>
-- **Latest release**: `v0.37.7` (2026-08-15)
-- **Last commit**: 2026-09-04
-- **License**: Apache-2.0
-- **Stars**: 10045 · **Forks**: 414 · **Open issues**: 1591 · **Contributors**: 115
+![tilt](https://repo.x-cmd.io/tilt.svg)
 
-## Installation
+## Install
 
 ```sh
 x install tilt
 ```
 
-See <https://x-cmd.com/install/tilt> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/tilt-dev/tilt>
+- **Homepage**: <https://tilt.dev/>
+- **License**: Apache-2.0
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:13:09Z._
+- **Latest**: `v0.37.7` (2026-08-15)
+- **Last commit**: 2026-09-04
+- **Assets in release**: 10
+- **Published**: 2026-08-15T01:24:10Z
+
+## Popularity
+
+- **Stars**: 10,046 · **Forks**: 414 · **Open issues**: 1,591 · **Contributors**: 115
+
+## Totals (cumulative)
+
+- **Releases**: 265 · **Merged PRs**: 4936 · **Open PRs**: 13 · **Closed issues**: 1093 · **Open issues**: 498 · **Commits**: 5100
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 5 | 4 | 1 | 2 | 7 |
+| 90d | 2026-06-12 | 4 | 38 | 8 | 4 | 5 | 50 |
+| 360d | 2025-09-15 | 12 | 138 | 13 | 36 | 15 | 150 |
+
+## Code size
+
+Total: **2,005,259** lines of code across **10056** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 1,855,380 | 436,100 | 235,321 | 9755 |
+| C | 59,343 | 457 | 708 | 15 |
+| Tsx | 22,771 | 825 | 2,377 | 147 |
+| Yaml | 17,587 | 99 | 102 | 67 |
+| AssemblyGAS | 13,584 | 1,213 | 2,848 | 72 |
+
+## OpenSSF Scorecard
+
+Overall score: **4.5 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (4/10) — Found 9/22 approved changesets -- score normalized to 4
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
+
+## Improve this data
+
+Install metadata for tilt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tilt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tilt.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:46:41Z._
