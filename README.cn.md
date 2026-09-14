@@ -48,22 +48,22 @@ x install tilt
 
 ## 流行度
 
-- **Star**: 10,052 · **Fork**: 412 · **开放 issue**: 1,591 · **贡献者**: 115
+- **Star**: 10,051 · **Fork**: 412 · **开放 issue**: 1,591 · **贡献者**: 115
 
 ## 累计统计
 
-- **发布数**: 265 · **已合并 PR**: 4937 · **开放 PR**: 12 · **已关闭 issue**: 1093 · **开放 issue**: 498 · **提交数**: 5101
+- **发布数**: 265 · **已合并 PR**: 4937 · **开放 PR**: 13 · **已关闭 issue**: 1093 · **开放 issue**: 498 · **提交数**: 5101
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 4 | 2 | 1 | 0 | 8 |
-| last60d | 2026-07-15 | 2 | 23 | 5 | 2 | 4 | 27 |
-| 90d | 2026-06-15 | 4 | 35 | 7 | 4 | 5 | 51 |
-| last180d | 2026-03-17 | 7 | 74 | 11 | 8 | 6 | 82 |
-| 360d | 2025-09-18 | 12 | 139 | 12 | 35 | 15 | 151 |
-| last720d | 2024-09-23 | 22 | 215 | 12 | 85 | 52 | 238 |
+| 30d | 2026-08-15 | 1 | 4 | 3 | 1 | 0 | 4 |
+| last60d | 2026-07-16 | 2 | 22 | 6 | 2 | 4 | 20 |
+| 90d | 2026-06-16 | 4 | 34 | 8 | 4 | 5 | 42 |
+| last180d | 2026-03-18 | 7 | 74 | 12 | 8 | 6 | 81 |
+| 360d | 2025-09-19 | 12 | 139 | 13 | 34 | 15 | 151 |
+| last720d | 2024-09-24 | 22 | 215 | 13 | 85 | 52 | 238 |
 
 ## Release 资产
 
@@ -80,15 +80,6 @@ x install tilt
 | [tilt.0.37.7.web-assets.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.7/tilt.0.37.7.web-assets.tar.gz) | 1.2 MiB | `native/unknown` |
 | [tilt.0.37.7.windows.x86_64.zip](https://github.com/tilt-dev/tilt/releases/download/v0.37.7/tilt.0.37.7.windows.x86_64.zip) | 31.2 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/tilt) 上共有 **15** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.37.7` | ✅ latest |
-| Nix unstable | `0.37.6` | ⚠️ outdated |
-
 ## 改进这些数据
 
 tilt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `tilt` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -98,4 +89,4 @@ tilt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:01:23Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:15:19Z._
