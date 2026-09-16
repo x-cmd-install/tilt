@@ -26,13 +26,13 @@ x install tilt
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.5 / 10**
+总评分: **4.4 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 9/22 approved changesets -- score normalized to 4
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Token-Permissions** (-1/10) — No tokens found
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install tilt
 
 ## 流行度
 
-- **Star**: 10,050 · **Fork**: 412 · **开放 issue**: 1,592 · **贡献者**: 115
+- **Star**: 10,053 · **Fork**: 412 · **开放 issue**: 1,591 · **贡献者**: 115
 
 ## 累计统计
 
-- **发布数**: 265 · **已合并 PR**: 4937 · **开放 PR**: 12 · **已关闭 issue**: 1093 · **开放 issue**: 499 · **提交数**: 5101
+- **发布数**: 265 · **已合并 PR**: 4937 · **开放 PR**: 12 · **已关闭 issue**: 1093 · **开放 issue**: 498 · **提交数**: 5101
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 4 | 3 | 1 | 1 | 4 |
-| last60d | 2026-07-17 | 2 | 22 | 6 | 2 | 4 | 20 |
-| 90d | 2026-06-17 | 3 | 32 | 8 | 4 | 6 | 42 |
-| last180d | 2026-03-19 | 7 | 73 | 11 | 8 | 7 | 81 |
-| 360d | 2025-09-20 | 12 | 139 | 12 | 34 | 16 | 151 |
-| last720d | 2024-09-25 | 22 | 215 | 12 | 85 | 51 | 237 |
+| 30d | 2026-08-17 | 0 | 4 | 3 | 1 | 0 | 4 |
+| last60d | 2026-07-18 | 2 | 22 | 6 | 2 | 3 | 20 |
+| 90d | 2026-06-18 | 3 | 32 | 8 | 4 | 5 | 42 |
+| last180d | 2026-03-20 | 7 | 72 | 11 | 8 | 6 | 81 |
+| 360d | 2025-09-21 | 12 | 139 | 12 | 34 | 15 | 151 |
+| last720d | 2024-09-26 | 22 | 215 | 12 | 83 | 50 | 237 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ tilt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T05:07:15Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T05:11:40Z._
