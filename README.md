@@ -14,11 +14,11 @@ x install tilt
 
 ## Code insight
 
-Total: **2,050,781** lines of code across **10289** files in the top 5 languages.
+Total: **2,050,821** lines of code across **10289** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,897,878 | 468,935 | 244,257 | 9985 |
+| Go | 1,897,918 | 468,943 | 244,266 | 9985 |
 | C | 59,343 | 457 | 708 | 15 |
 | Tsx | 22,771 | 825 | 2,377 | 147 |
 | Yaml | 17,556 | 96 | 102 | 66 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.37.8` (2026-10-01)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-03
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 10,083 · **Forks**: 412 · **Open issues**: 1,591 · **Contributors**: 115
+- **Stars**: 10,084 · **Forks**: 413 · **Open issues**: 1,592 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 266 · **Merged PRs**: 4941 · **Open PRs**: 12 · **Closed issues**: 1094 · **Open issues**: 497 · **Commits**: 5106
+- **Releases**: 266 · **Merged PRs**: 4944 · **Open PRs**: 11 · **Closed issues**: 1096 · **Open issues**: 496 · **Commits**: 5109
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 1 | 5 | 2 | 0 | 0 | 6 |
-| last60d | 2026-08-02 | 2 | 14 | 5 | 3 | 1 | 18 |
-| 90d | 2026-07-03 | 3 | 32 | 6 | 4 | 3 | 44 |
-| last180d | 2026-04-04 | 8 | 68 | 11 | 8 | 5 | 79 |
-| 360d | 2025-10-06 | 13 | 139 | 12 | 35 | 14 | 151 |
-| last720d | 2024-10-11 | 23 | 217 | 12 | 81 | 49 | 241 |
+| 30d | 2026-09-03 | 1 | 8 | 1 | 1 | 0 | 9 |
+| last60d | 2026-08-04 | 2 | 17 | 4 | 4 | 1 | 21 |
+| 90d | 2026-07-05 | 3 | 35 | 5 | 5 | 3 | 47 |
+| last180d | 2026-04-06 | 8 | 71 | 10 | 9 | 5 | 82 |
+| 360d | 2025-10-08 | 12 | 142 | 11 | 36 | 14 | 154 |
+| last720d | 2024-10-13 | 23 | 220 | 11 | 82 | 49 | 243 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for tilt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:05:48Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:30:21Z._
