@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 883,
       "digest": "sha256:9bfd40c2b401f1b38b4ec2829c83d22b65d570abea600376b3da4dbc6fa8192e",
-      "download_count": 288,
+      "download_count": 421,
       "created_at": "2026-10-01T02:03:31Z",
       "updated_at": "2026-10-01T02:03:31Z",
       "browser_download_url": "https://github.com/tilt-dev/tilt/releases/download/v0.37.8/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 31078980,
       "digest": "sha256:101259fedb4faccb66c69afcb135de5e461765eccb06ff23693a016b6d26e963",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-10-01T02:03:30Z",
       "updated_at": "2026-10-01T02:03:31Z",
       "browser_download_url": "https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.linux-alpine.arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 34450939,
       "digest": "sha256:7ce69fca2d3b48746d575be8378e0ea0a46bea3e15775d9b4c6548324183dcf4",
-      "download_count": 462,
+      "download_count": 617,
       "created_at": "2026-10-01T02:03:30Z",
       "updated_at": "2026-10-01T02:03:31Z",
       "browser_download_url": "https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.linux-alpine.x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 39858241,
       "digest": "sha256:7a21281e830930be158202b7f8405ba62445613788b4d9708512ffe51f5cce90",
-      "download_count": 999,
+      "download_count": 1408,
       "created_at": "2026-10-01T02:03:28Z",
       "updated_at": "2026-10-01T02:03:29Z",
       "browser_download_url": "https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.linux.arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 43345391,
       "digest": "sha256:e39513f958705d30524d55f68b1d46fbef2b46a0da568efd00e6383dee6be44f",
-      "download_count": 16056,
+      "download_count": 20856,
       "created_at": "2026-10-01T02:03:30Z",
       "updated_at": "2026-10-01T02:03:31Z",
       "browser_download_url": "https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.linux.x86_64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 34370181,
       "digest": "sha256:2d396b13c479f74deb19cb2161a3f0858f6e03f26f15f8d3b3be982d09ff4484",
-      "download_count": 655,
+      "download_count": 794,
       "created_at": "2026-10-01T02:03:28Z",
       "updated_at": "2026-10-01T02:03:29Z",
       "browser_download_url": "https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.mac.arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 36857149,
       "digest": "sha256:0d03359e43f7faea07a6ed0e7423bb56176d1959462fa155329e9acabf90e6fa",
-      "download_count": 34,
+      "download_count": 41,
       "created_at": "2026-10-01T02:03:28Z",
       "updated_at": "2026-10-01T02:03:29Z",
       "browser_download_url": "https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.mac.x86_64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 33817610,
       "digest": "sha256:b8abb4b50e98d45300bd953a717a684f3555b158ee1238c9c938d72d2bea8cbe",
-      "download_count": 236,
+      "download_count": 306,
       "created_at": "2026-10-01T02:03:29Z",
       "updated_at": "2026-10-01T02:03:30Z",
       "browser_download_url": "https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.windows.x86_64.zip"
