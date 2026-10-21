@@ -26,13 +26,13 @@ Total: **2,050,815** lines of code across **10289** files in the top 5 languages
 
 ## OpenSSF Scorecard
 
-Overall score: **4.4 / 10**
+Overall score: **4.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 6/18 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 5/17 approved changesets -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (-1/10) — no workflows found
-- **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.37.8` (2026-10-01)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-21
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 10,112 · **Forks**: 417 · **Open issues**: 1,593 · **Contributors**: 116
+- **Stars**: 10,114 · **Forks**: 417 · **Open issues**: 1,593 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 266 · **Merged PRs**: 4950 · **Open PRs**: 15 · **Closed issues**: 1096 · **Open issues**: 497 · **Commits**: 5115
+- **Releases**: 266 · **Merged PRs**: 4952 · **Open PRs**: 15 · **Closed issues**: 1096 · **Open issues**: 497 · **Commits**: 5117
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 11 | 5 | 0 | 2 | 12 |
-| last60d | 2026-08-21 | 1 | 17 | 5 | 1 | 2 | 18 |
-| 90d | 2026-07-22 | 3 | 26 | 9 | 4 | 4 | 31 |
-| last180d | 2026-04-23 | 7 | 71 | 14 | 9 | 6 | 73 |
-| 360d | 2025-10-25 | 12 | 146 | 15 | 34 | 13 | 158 |
-| last720d | 2024-10-30 | 23 | 222 | 15 | 79 | 49 | 248 |
+| 30d | 2026-09-21 | 1 | 13 | 5 | 0 | 2 | 14 |
+| last60d | 2026-08-22 | 1 | 19 | 5 | 1 | 2 | 20 |
+| 90d | 2026-07-23 | 3 | 28 | 9 | 4 | 4 | 33 |
+| last180d | 2026-04-24 | 7 | 68 | 13 | 9 | 6 | 75 |
+| 360d | 2025-10-26 | 12 | 148 | 15 | 34 | 13 | 160 |
+| last720d | 2024-10-31 | 23 | 223 | 15 | 79 | 48 | 248 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for tilt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:58:42Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:46:57Z._
