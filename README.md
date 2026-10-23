@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,114 · **Forks**: 417 · **Open issues**: 1,593 · **Contributors**: 116
+- **Stars**: 10,114 · **Forks**: 418 · **Open issues**: 1,593 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 266 · **Merged PRs**: 4952 · **Open PRs**: 15 · **Closed issues**: 1096 · **Open issues**: 497 · **Commits**: 5117
+- **Releases**: 266 · **Merged PRs**: 4952 · **Open PRs**: 16 · **Closed issues**: 1096 · **Open issues**: 497 · **Commits**: 5117
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 13 | 5 | 0 | 2 | 14 |
-| last60d | 2026-08-23 | 1 | 19 | 5 | 1 | 2 | 20 |
-| 90d | 2026-07-24 | 3 | 28 | 9 | 4 | 4 | 33 |
-| last180d | 2026-04-25 | 6 | 68 | 13 | 9 | 6 | 75 |
-| 360d | 2025-10-27 | 12 | 148 | 15 | 33 | 13 | 160 |
-| last720d | 2024-11-01 | 23 | 223 | 15 | 79 | 48 | 246 |
+| 30d | 2026-09-23 | 1 | 13 | 6 | 0 | 2 | 14 |
+| last60d | 2026-08-24 | 1 | 19 | 6 | 1 | 2 | 20 |
+| 90d | 2026-07-25 | 3 | 28 | 10 | 4 | 4 | 33 |
+| last180d | 2026-04-26 | 6 | 68 | 14 | 9 | 6 | 75 |
+| 360d | 2025-10-28 | 12 | 148 | 16 | 33 | 13 | 160 |
+| last720d | 2024-11-02 | 23 | 223 | 16 | 79 | 48 | 246 |
 
 ## Release assets
 
@@ -80,6 +80,15 @@ Lowest-scoring checks:
 | [tilt.0.37.8.web-assets.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.web-assets.tar.gz) | 1.2 MiB | `native/unknown` |
 | [tilt.0.37.8.windows.x86_64.zip](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.windows.x86_64.zip) | 32.3 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **15** distros on [repology.org](https://repology.org/project/tilt). **3** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.37.8` | ✅ latest |
+| Nix unstable | `0.37.7` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for tilt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tilt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +98,4 @@ Install metadata for tilt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:47:45Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:57:09Z._
