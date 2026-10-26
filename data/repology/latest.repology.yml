@@ -141,7 +141,7 @@
   binname: tilt
   visiblename: devel/tilt
   version: 0.36.3
-  origversion: 0.36.3nb10
+  origversion: 0.36.3nb11
   status: outdated
   summary: Microservice development environment tool
   maintainers:
