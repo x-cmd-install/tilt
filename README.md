@@ -26,13 +26,13 @@ Total: **2,050,893** lines of code across **10289** files in the top 5 languages
 
 ## OpenSSF Scorecard
 
-Overall score: **4.3 / 10**
+Overall score: **4.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 5/17 approved changesets -- score normalized to 2
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (-1/10) — no workflows found
+- **Code-Review** (3/10) — Found 6/17 approved changesets -- score normalized to 3
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,113 · **Forks**: 420 · **Open issues**: 1,593 · **Contributors**: 118
+- **Stars**: 10,115 · **Forks**: 421 · **Open issues**: 1,593 · **Contributors**: 118
 
 ## Totals (cumulative)
 
-- **Releases**: 266 · **Merged PRs**: 4954 · **Open PRs**: 14 · **Closed issues**: 1097 · **Open issues**: 496 · **Commits**: 5119
+- **Releases**: 266 · **Merged PRs**: 4954 · **Open PRs**: 15 · **Closed issues**: 1098 · **Open issues**: 495 · **Commits**: 5119
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 15 | 3 | 1 | 1 | 13 |
-| last60d | 2026-08-28 | 1 | 20 | 4 | 2 | 1 | 20 |
-| 90d | 2026-07-29 | 3 | 27 | 8 | 5 | 3 | 31 |
-| last180d | 2026-04-30 | 6 | 67 | 12 | 9 | 5 | 73 |
-| 360d | 2025-11-01 | 12 | 150 | 14 | 34 | 12 | 162 |
-| last720d | 2024-11-06 | 23 | 220 | 14 | 79 | 47 | 243 |
+| 30d | 2026-09-28 | 1 | 13 | 4 | 1 | 1 | 13 |
+| last60d | 2026-08-29 | 1 | 20 | 5 | 2 | 1 | 20 |
+| 90d | 2026-07-30 | 2 | 27 | 9 | 5 | 3 | 31 |
+| last180d | 2026-05-01 | 5 | 66 | 13 | 9 | 5 | 73 |
+| 360d | 2025-11-02 | 12 | 150 | 15 | 34 | 12 | 162 |
+| last720d | 2024-11-07 | 23 | 220 | 15 | 79 | 47 | 243 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for tilt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:14:54Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:52:23Z._
