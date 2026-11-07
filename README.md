@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,122 · **Forks**: 421 · **Open issues**: 1,593 · **Contributors**: 118
+- **Stars**: 10,124 · **Forks**: 421 · **Open issues**: 1,593 · **Contributors**: 118
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 13 | 4 | 1 | 1 | 13 |
-| last60d | 2026-09-07 | 1 | 21 | 5 | 2 | 1 | 22 |
-| 90d | 2026-08-08 | 2 | 26 | 7 | 5 | 2 | 29 |
-| last180d | 2026-05-10 | 5 | 67 | 12 | 8 | 5 | 75 |
-| 360d | 2025-11-11 | 12 | 150 | 15 | 33 | 10 | 161 |
-| last720d | 2024-11-16 | 22 | 222 | 15 | 78 | 45 | 244 |
+| 30d | 2026-10-08 | 0 | 13 | 4 | 1 | 1 | 13 |
+| last60d | 2026-09-08 | 1 | 21 | 5 | 2 | 1 | 22 |
+| 90d | 2026-08-09 | 2 | 26 | 7 | 4 | 2 | 29 |
+| last180d | 2026-05-11 | 5 | 67 | 12 | 8 | 5 | 75 |
+| 360d | 2025-11-12 | 12 | 149 | 15 | 33 | 10 | 161 |
+| last720d | 2024-11-17 | 22 | 222 | 15 | 78 | 45 | 244 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for tilt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:44:00Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:18:49Z._
