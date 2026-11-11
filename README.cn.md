@@ -30,9 +30,9 @@ x install tilt
 
 评分最低的几项:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Code-Review** (3/10) — Found 6/17 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
+- **Code-Review** (3/10) — Found 5/14 approved changesets -- score normalized to 3
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install tilt
 
 ## 流行度
 
-- **Star**: 10,123 · **Fork**: 421 · **开放 issue**: 1,593 · **贡献者**: 118
+- **Star**: 10,127 · **Fork**: 421 · **开放 issue**: 1,593 · **贡献者**: 118
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install tilt
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 13 | 3 | 1 | 1 | 7 |
-| last60d | 2026-09-11 | 1 | 20 | 5 | 2 | 1 | 21 |
-| 90d | 2026-08-12 | 2 | 26 | 7 | 4 | 2 | 25 |
-| last180d | 2026-05-14 | 5 | 66 | 11 | 8 | 5 | 72 |
-| 360d | 2025-11-15 | 12 | 149 | 15 | 33 | 9 | 154 |
-| last720d | 2024-11-20 | 22 | 220 | 15 | 77 | 44 | 243 |
+| 30d | 2026-10-12 | 0 | 13 | 3 | 1 | 1 | 7 |
+| last60d | 2026-09-12 | 1 | 20 | 5 | 2 | 1 | 21 |
+| 90d | 2026-08-13 | 2 | 25 | 7 | 4 | 2 | 25 |
+| last180d | 2026-05-15 | 5 | 65 | 11 | 8 | 5 | 72 |
+| 360d | 2025-11-16 | 12 | 149 | 15 | 32 | 9 | 154 |
+| last720d | 2024-11-21 | 22 | 220 | 15 | 77 | 44 | 243 |
 
 ## Release 资产
 
@@ -98,4 +98,4 @@ tilt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261110.yml` · 2026-11-10T07:30:26Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T06:18:47Z._

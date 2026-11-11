@@ -30,9 +30,9 @@ Overall score: **4.4 / 10**
 
 Lowest-scoring checks:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Code-Review** (3/10) — Found 6/17 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
+- **Code-Review** (3/10) — Found 5/14 approved changesets -- score normalized to 3
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,123 · **Forks**: 421 · **Open issues**: 1,593 · **Contributors**: 118
+- **Stars**: 10,127 · **Forks**: 421 · **Open issues**: 1,593 · **Contributors**: 118
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 13 | 3 | 1 | 1 | 7 |
-| last60d | 2026-09-11 | 1 | 20 | 5 | 2 | 1 | 21 |
-| 90d | 2026-08-12 | 2 | 26 | 7 | 4 | 2 | 25 |
-| last180d | 2026-05-14 | 5 | 66 | 11 | 8 | 5 | 72 |
-| 360d | 2025-11-15 | 12 | 149 | 15 | 33 | 9 | 154 |
-| last720d | 2024-11-20 | 22 | 220 | 15 | 77 | 44 | 243 |
+| 30d | 2026-10-12 | 0 | 13 | 3 | 1 | 1 | 7 |
+| last60d | 2026-09-12 | 1 | 20 | 5 | 2 | 1 | 21 |
+| 90d | 2026-08-13 | 2 | 25 | 7 | 4 | 2 | 25 |
+| last180d | 2026-05-15 | 5 | 65 | 11 | 8 | 5 | 72 |
+| 360d | 2025-11-16 | 12 | 149 | 15 | 32 | 9 | 154 |
+| last720d | 2024-11-21 | 22 | 220 | 15 | 77 | 44 | 243 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for tilt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:30:24Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:18:46Z._
