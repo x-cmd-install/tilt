@@ -14,13 +14,13 @@ x install tilt
 
 ## Code insight
 
-Total: **2,050,939** lines of code across **10290** files in the top 5 languages.
+Total: **2,051,017** lines of code across **10291** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,897,990 | 468,962 | 244,274 | 9985 |
+| Go | 1,898,062 | 468,975 | 244,286 | 9986 |
 | C | 59,343 | 457 | 708 | 15 |
-| Tsx | 22,817 | 825 | 2,384 | 148 |
+| Tsx | 22,824 | 825 | 2,384 | 148 |
 | Yaml | 17,556 | 96 | 102 | 66 |
 | AssemblyGAS | 16,094 | 1,388 | 3,196 | 76 |
 
@@ -42,51 +42,51 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.37.8` (2026-10-01)
-- **Last commit**: 2026-11-12
+- **Latest**: `v0.37.9` (2026-11-14)
+- **Last commit**: 2026-11-14
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 10,128 · **Forks**: 422 · **Open issues**: 1,594 · **Contributors**: 119
+- **Stars**: 10,130 · **Forks**: 422 · **Open issues**: 1,595 · **Contributors**: 120
 
 ## Totals (cumulative)
 
-- **Releases**: 266 · **Merged PRs**: 4958 · **Open PRs**: 16 · **Closed issues**: 1098 · **Open issues**: 496 · **Commits**: 5123
+- **Releases**: 267 · **Merged PRs**: 4961 · **Open PRs**: 12 · **Closed issues**: 1099 · **Open issues**: 496 · **Commits**: 5127
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 9 | 3 | 1 | 1 | 8 |
-| last60d | 2026-09-14 | 1 | 20 | 6 | 2 | 2 | 22 |
-| 90d | 2026-08-15 | 2 | 25 | 7 | 3 | 2 | 26 |
-| last180d | 2026-05-17 | 5 | 65 | 12 | 8 | 6 | 73 |
-| 360d | 2025-11-18 | 12 | 145 | 16 | 31 | 9 | 155 |
-| last720d | 2024-11-23 | 22 | 221 | 16 | 77 | 45 | 243 |
+| 30d | 2026-10-15 | 1 | 9 | 1 | 1 | 2 | 12 |
+| last60d | 2026-09-15 | 2 | 21 | 4 | 1 | 3 | 26 |
+| 90d | 2026-08-16 | 2 | 27 | 4 | 3 | 3 | 30 |
+| last180d | 2026-05-18 | 6 | 68 | 8 | 9 | 6 | 77 |
+| 360d | 2025-11-19 | 12 | 148 | 12 | 32 | 9 | 159 |
+| last720d | 2024-11-24 | 23 | 224 | 12 | 78 | 45 | 247 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/checksums.txt) | 883 B | `other` |
-| [tilt.0.37.8.linux-alpine.arm64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.linux-alpine.arm64.tar.gz) | 29.6 MiB | `native/linux/arm64` |
-| [tilt.0.37.8.linux-alpine.x86_64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.linux-alpine.x86_64.tar.gz) | 32.9 MiB | `native/linux/x64` |
-| [tilt.0.37.8.linux.arm.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.linux.arm.tar.gz) | 39.2 MiB | `native/linux/arm` |
-| [tilt.0.37.8.linux.arm64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.linux.arm64.tar.gz) | 38.0 MiB | `native/linux/arm64` |
-| [tilt.0.37.8.linux.x86_64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.linux.x86_64.tar.gz) | 41.3 MiB | `native/linux/x64` |
-| [tilt.0.37.8.mac.arm64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.mac.arm64.tar.gz) | 32.8 MiB | `native/linux/arm64` |
-| [tilt.0.37.8.mac.x86_64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.mac.x86_64.tar.gz) | 35.1 MiB | `native/linux/x64` |
-| [tilt.0.37.8.web-assets.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.web-assets.tar.gz) | 1.2 MiB | `native/unknown` |
-| [tilt.0.37.8.windows.x86_64.zip](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.windows.x86_64.zip) | 32.3 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/checksums.txt) | 883 B | `other` |
+| [tilt.0.37.9.linux-alpine.arm64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/tilt.0.37.9.linux-alpine.arm64.tar.gz) | 29.6 MiB | `native/linux/arm64` |
+| [tilt.0.37.9.linux-alpine.x86_64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/tilt.0.37.9.linux-alpine.x86_64.tar.gz) | 32.9 MiB | `native/linux/x64` |
+| [tilt.0.37.9.linux.arm.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/tilt.0.37.9.linux.arm.tar.gz) | 39.2 MiB | `native/linux/arm` |
+| [tilt.0.37.9.linux.arm64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/tilt.0.37.9.linux.arm64.tar.gz) | 38.0 MiB | `native/linux/arm64` |
+| [tilt.0.37.9.linux.x86_64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/tilt.0.37.9.linux.x86_64.tar.gz) | 41.3 MiB | `native/linux/x64` |
+| [tilt.0.37.9.mac.arm64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/tilt.0.37.9.mac.arm64.tar.gz) | 32.8 MiB | `native/linux/arm64` |
+| [tilt.0.37.9.mac.x86_64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/tilt.0.37.9.mac.x86_64.tar.gz) | 35.1 MiB | `native/linux/x64` |
+| [tilt.0.37.9.web-assets.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/tilt.0.37.9.web-assets.tar.gz) | 1.2 MiB | `native/unknown` |
+| [tilt.0.37.9.windows.x86_64.zip](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/tilt.0.37.9.windows.x86_64.zip) | 32.3 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **15** distros on [repology.org](https://repology.org/project/tilt). **3** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **15** distros on [repology.org](https://repology.org/project/tilt). **1** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.37.8` | ✅ latest |
+| Homebrew | `0.37.9` | ✅ latest |
 | Nix unstable | `0.37.7` | ⚠️ outdated |
 
 ## Improve this data
@@ -98,4 +98,4 @@ Install metadata for tilt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:55:38Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:28:09Z._

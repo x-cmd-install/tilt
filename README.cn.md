@@ -14,13 +14,13 @@ x install tilt
 
 ## 代码洞察
 
-合计: **2,050,939** 行代码（覆盖前 5 种语言、共 **10290** 个文件）。
+合计: **2,051,017** 行代码（覆盖前 5 种语言、共 **10291** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 1,897,990 | 468,962 | 244,274 | 9985 |
+| Go | 1,898,062 | 468,975 | 244,286 | 9986 |
 | C | 59,343 | 457 | 708 | 15 |
-| Tsx | 22,817 | 825 | 2,384 | 148 |
+| Tsx | 22,824 | 825 | 2,384 | 148 |
 | Yaml | 17,556 | 96 | 102 | 66 |
 | AssemblyGAS | 16,094 | 1,388 | 3,196 | 76 |
 
@@ -42,51 +42,51 @@ x install tilt
 
 ## 发布
 
-- **最新版本**: `v0.37.8` (2026-10-01)
-- **最近提交**: 2026-11-12
+- **最新版本**: `v0.37.9` (2026-11-14)
+- **最近提交**: 2026-11-14
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 10,128 · **Fork**: 422 · **开放 issue**: 1,594 · **贡献者**: 119
+- **Star**: 10,130 · **Fork**: 422 · **开放 issue**: 1,595 · **贡献者**: 120
 
 ## 累计统计
 
-- **发布数**: 266 · **已合并 PR**: 4958 · **开放 PR**: 16 · **已关闭 issue**: 1098 · **开放 issue**: 496 · **提交数**: 5123
+- **发布数**: 267 · **已合并 PR**: 4961 · **开放 PR**: 12 · **已关闭 issue**: 1099 · **开放 issue**: 496 · **提交数**: 5127
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 9 | 3 | 1 | 1 | 8 |
-| last60d | 2026-09-14 | 1 | 20 | 6 | 2 | 2 | 22 |
-| 90d | 2026-08-15 | 2 | 25 | 7 | 3 | 2 | 26 |
-| last180d | 2026-05-17 | 5 | 65 | 12 | 8 | 6 | 73 |
-| 360d | 2025-11-18 | 12 | 145 | 16 | 31 | 9 | 155 |
-| last720d | 2024-11-23 | 22 | 221 | 16 | 77 | 45 | 243 |
+| 30d | 2026-10-15 | 1 | 9 | 1 | 1 | 2 | 12 |
+| last60d | 2026-09-15 | 2 | 21 | 4 | 1 | 3 | 26 |
+| 90d | 2026-08-16 | 2 | 27 | 4 | 3 | 3 | 30 |
+| last180d | 2026-05-18 | 6 | 68 | 8 | 9 | 6 | 77 |
+| 360d | 2025-11-19 | 12 | 148 | 12 | 32 | 9 | 159 |
+| last720d | 2024-11-24 | 23 | 224 | 12 | 78 | 45 | 247 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/checksums.txt) | 883 B | `other` |
-| [tilt.0.37.8.linux-alpine.arm64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.linux-alpine.arm64.tar.gz) | 29.6 MiB | `native/linux/arm64` |
-| [tilt.0.37.8.linux-alpine.x86_64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.linux-alpine.x86_64.tar.gz) | 32.9 MiB | `native/linux/x64` |
-| [tilt.0.37.8.linux.arm.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.linux.arm.tar.gz) | 39.2 MiB | `native/linux/arm` |
-| [tilt.0.37.8.linux.arm64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.linux.arm64.tar.gz) | 38.0 MiB | `native/linux/arm64` |
-| [tilt.0.37.8.linux.x86_64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.linux.x86_64.tar.gz) | 41.3 MiB | `native/linux/x64` |
-| [tilt.0.37.8.mac.arm64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.mac.arm64.tar.gz) | 32.8 MiB | `native/linux/arm64` |
-| [tilt.0.37.8.mac.x86_64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.mac.x86_64.tar.gz) | 35.1 MiB | `native/linux/x64` |
-| [tilt.0.37.8.web-assets.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.web-assets.tar.gz) | 1.2 MiB | `native/unknown` |
-| [tilt.0.37.8.windows.x86_64.zip](https://github.com/tilt-dev/tilt/releases/download/v0.37.8/tilt.0.37.8.windows.x86_64.zip) | 32.3 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/checksums.txt) | 883 B | `other` |
+| [tilt.0.37.9.linux-alpine.arm64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/tilt.0.37.9.linux-alpine.arm64.tar.gz) | 29.6 MiB | `native/linux/arm64` |
+| [tilt.0.37.9.linux-alpine.x86_64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/tilt.0.37.9.linux-alpine.x86_64.tar.gz) | 32.9 MiB | `native/linux/x64` |
+| [tilt.0.37.9.linux.arm.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/tilt.0.37.9.linux.arm.tar.gz) | 39.2 MiB | `native/linux/arm` |
+| [tilt.0.37.9.linux.arm64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/tilt.0.37.9.linux.arm64.tar.gz) | 38.0 MiB | `native/linux/arm64` |
+| [tilt.0.37.9.linux.x86_64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/tilt.0.37.9.linux.x86_64.tar.gz) | 41.3 MiB | `native/linux/x64` |
+| [tilt.0.37.9.mac.arm64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/tilt.0.37.9.mac.arm64.tar.gz) | 32.8 MiB | `native/linux/arm64` |
+| [tilt.0.37.9.mac.x86_64.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/tilt.0.37.9.mac.x86_64.tar.gz) | 35.1 MiB | `native/linux/x64` |
+| [tilt.0.37.9.web-assets.tar.gz](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/tilt.0.37.9.web-assets.tar.gz) | 1.2 MiB | `native/unknown` |
+| [tilt.0.37.9.windows.x86_64.zip](https://github.com/tilt-dev/tilt/releases/download/v0.37.9/tilt.0.37.9.windows.x86_64.zip) | 32.3 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/tilt) 上共有 **15** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/tilt) 上共有 **15** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**12** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.37.8` | ✅ latest |
+| Homebrew | `0.37.9` | ✅ latest |
 | Nix unstable | `0.37.7` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -98,4 +98,4 @@ tilt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261113.yml` · 2026-11-13T06:55:40Z._
+_数据快照: `data/card/261114.yml` · 2026-11-14T06:28:10Z._
