@@ -1,10 +1,22 @@
+- repo: pkgsrc_current
+  srcname: devel/tilt
+  binname: tilt
+  visiblename: devel/tilt
+  version: 0.36.3
+  origversion: 0.36.3nb13
+  status: outdated
+  summary: Microservice development environment tool
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
 - repo: aur
   srcname: tilt-bin
   binname: tilt-bin
   visiblename: tilt-bin
   version: 0.37.8
   origversion: 0.37.8-1
-  status: newest
+  status: outdated
   summary: Local Kubernetes development with no stress
   maintainers:
     - dodogta@aur
@@ -25,12 +37,12 @@
   visiblename: Tilt
   version: 0.37.8
   origversion: null
-  status: newest
+  status: outdated
   summary: Kubernetes for Prod, Tilt for Dev
 - repo: homebrew
   srcname: tilt
   visiblename: tilt
-  version: 0.37.8
+  version: 0.37.9
   origversion: null
   status: newest
   summary: Define your dev environment as code. For microservice apps on Kubernetes
@@ -142,18 +154,6 @@
   visiblename: devel/tilt
   version: 0.36.3
   origversion: 0.36.3nb11
-  status: outdated
-  summary: Microservice development environment tool
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - devel
-- repo: pkgsrc_current
-  srcname: devel/tilt
-  binname: tilt
-  visiblename: devel/tilt
-  version: 0.36.3
-  origversion: 0.36.3nb13
   status: outdated
   summary: Microservice development environment tool
   maintainers:
