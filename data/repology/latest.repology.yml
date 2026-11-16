@@ -1,15 +1,15 @@
-- repo: pkgsrc_current
-  srcname: devel/tilt
-  binname: tilt
-  visiblename: devel/tilt
-  version: 0.36.3
-  origversion: 0.36.3nb13
+- repo: nix_stable_25_11
+  srcname: tilt
+  visiblename: tilt
+  version: 0.35.2
+  origversion: null
   status: outdated
-  summary: Microservice development environment tool
+  summary: Local development tool to manage your developer instance when your team deploys to Kubernetes in production
   maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - devel
+    - anton.dessiatov@gmail.com
+    - zacharyarnaise@github
+  licenses:
+    - Apache-2.0
 - repo: aur
   srcname: tilt-bin
   binname: tilt-bin
@@ -35,9 +35,9 @@
 - repo: chocolatey
   binname: tilt
   visiblename: Tilt
-  version: 0.37.8
+  version: 0.37.9
   origversion: null
-  status: outdated
+  status: newest
   summary: Kubernetes for Prod, Tilt for Dev
 - repo: homebrew
   srcname: tilt
@@ -100,18 +100,6 @@
     - anton.dessiatov@gmail.com
   licenses:
     - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: tilt
-  visiblename: tilt
-  version: 0.35.2
-  origversion: null
-  status: outdated
-  summary: Local development tool to manage your developer instance when your team deploys to Kubernetes in production
-  maintainers:
-    - anton.dessiatov@gmail.com
-    - zacharyarnaise@github
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: tilt
   visiblename: tilt
@@ -153,7 +141,19 @@
   binname: tilt
   visiblename: devel/tilt
   version: 0.36.3
-  origversion: 0.36.3nb11
+  origversion: 0.36.3nb12
+  status: outdated
+  summary: Microservice development environment tool
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_current
+  srcname: devel/tilt
+  binname: tilt
+  visiblename: devel/tilt
+  version: 0.36.3
+  origversion: 0.36.3nb13
   status: outdated
   summary: Microservice development environment tool
   maintainers:
