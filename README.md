@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,133 · **Forks**: 422 · **Open issues**: 1,596 · **Contributors**: 120
+- **Stars**: 10,140 · **Forks**: 423 · **Open issues**: 1,597 · **Contributors**: 120
 
 ## Totals (cumulative)
 
-- **Releases**: 267 · **Merged PRs**: 4962 · **Open PRs**: 12 · **Closed issues**: 1099 · **Open issues**: 497 · **Commits**: 5128
+- **Releases**: 267 · **Merged PRs**: 4962 · **Open PRs**: 13 · **Closed issues**: 1099 · **Open issues**: 498 · **Commits**: 5128
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 10 | 1 | 1 | 3 | 11 |
-| last60d | 2026-09-18 | 2 | 21 | 4 | 1 | 4 | 25 |
-| 90d | 2026-08-19 | 2 | 27 | 4 | 2 | 4 | 31 |
-| last180d | 2026-05-21 | 6 | 67 | 8 | 8 | 7 | 78 |
-| 360d | 2025-11-22 | 12 | 148 | 12 | 31 | 10 | 160 |
-| last720d | 2024-11-27 | 23 | 225 | 12 | 78 | 45 | 248 |
+| 30d | 2026-10-20 | 1 | 7 | 2 | 0 | 4 | 11 |
+| last60d | 2026-09-20 | 2 | 21 | 5 | 1 | 5 | 25 |
+| 90d | 2026-08-21 | 2 | 27 | 5 | 2 | 5 | 31 |
+| last180d | 2026-05-23 | 6 | 67 | 9 | 8 | 8 | 78 |
+| 360d | 2025-11-24 | 12 | 148 | 13 | 31 | 10 | 160 |
+| last720d | 2024-11-29 | 23 | 225 | 13 | 78 | 46 | 248 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **15** distros on [repology.org](https://repology.org/project/tilt). **2** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **15** distros on [repology.org](https://repology.org/project/tilt). **3** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -98,4 +98,4 @@ Install metadata for tilt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:09:45Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:34:33Z._
