@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 7 | 2 | 0 | 4 | 11 |
-| last60d | 2026-09-20 | 2 | 21 | 5 | 1 | 5 | 25 |
-| 90d | 2026-08-21 | 2 | 27 | 5 | 2 | 5 | 31 |
-| last180d | 2026-05-23 | 6 | 67 | 9 | 8 | 8 | 78 |
-| 360d | 2025-11-24 | 12 | 148 | 13 | 31 | 10 | 160 |
-| last720d | 2024-11-29 | 23 | 225 | 13 | 78 | 46 | 248 |
+| 30d | 2026-10-21 | 1 | 7 | 2 | 0 | 4 | 11 |
+| last60d | 2026-09-21 | 2 | 21 | 5 | 1 | 5 | 25 |
+| 90d | 2026-08-22 | 2 | 27 | 5 | 2 | 5 | 31 |
+| last180d | 2026-05-24 | 6 | 67 | 9 | 8 | 8 | 78 |
+| 360d | 2025-11-25 | 12 | 148 | 13 | 31 | 10 | 160 |
+| last720d | 2024-11-30 | 23 | 225 | 13 | 78 | 46 | 248 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for tilt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:34:33Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:33:44Z._
