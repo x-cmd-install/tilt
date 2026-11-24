@@ -14,15 +14,15 @@ x install tilt
 
 ## Code insight
 
-Total: **2,051,017** lines of code across **10291** files in the top 5 languages.
+Total: **2,025,069** lines of code across **10169** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,898,062 | 468,975 | 244,286 | 9986 |
+| Go | 1,873,157 | 452,235 | 240,419 | 9864 |
 | C | 59,343 | 457 | 708 | 15 |
-| Tsx | 22,824 | 825 | 2,384 | 148 |
-| Yaml | 17,556 | 96 | 102 | 66 |
-| AssemblyGAS | 16,094 | 1,388 | 3,196 | 76 |
+| Tsx | 22,922 | 827 | 2,400 | 149 |
+| Yaml | 17,558 | 96 | 103 | 66 |
+| AssemblyGAS | 15,228 | 1,383 | 3,187 | 75 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.37.9` (2026-11-14)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-24
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 10,142 · **Forks**: 422 · **Open issues**: 1,597 · **Contributors**: 120
+- **Stars**: 10,145 · **Forks**: 424 · **Open issues**: 1,597 · **Contributors**: 121
 
 ## Totals (cumulative)
 
-- **Releases**: 267 · **Merged PRs**: 4962 · **Open PRs**: 13 · **Closed issues**: 1099 · **Open issues**: 498 · **Commits**: 5128
+- **Releases**: 267 · **Merged PRs**: 4965 · **Open PRs**: 18 · **Closed issues**: 1101 · **Open issues**: 496 · **Commits**: 5131
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 6 | 2 | 0 | 4 | 0 |
-| last60d | 2026-09-24 | 2 | 21 | 5 | 1 | 5 | 0 |
-| 90d | 2026-08-25 | 2 | 27 | 5 | 2 | 5 | 0 |
-| last180d | 2026-05-27 | 6 | 67 | 9 | 8 | 8 | 0 |
-| 360d | 2025-11-28 | 12 | 147 | 13 | 31 | 10 | 0 |
-| last720d | 2024-12-03 | 23 | 225 | 13 | 78 | 46 | 248 |
+| 30d | 2026-10-25 | 1 | 8 | 8 | 1 | 3 | 12 |
+| last60d | 2026-09-25 | 2 | 23 | 11 | 2 | 4 | 26 |
+| 90d | 2026-08-26 | 2 | 29 | 11 | 3 | 4 | 33 |
+| last180d | 2026-05-28 | 6 | 69 | 15 | 9 | 7 | 81 |
+| 360d | 2025-11-29 | 12 | 150 | 18 | 32 | 9 | 162 |
+| last720d | 2024-12-04 | 23 | 228 | 18 | 79 | 45 | 251 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for tilt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:12:55Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:54:10Z._
